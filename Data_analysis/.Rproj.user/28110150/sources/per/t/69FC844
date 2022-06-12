@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1654957959688.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1035094419",
+    "id" : "69FC844",
+    "lastKnownWriteTime" : 1654948084,
+    "last_content_update" : 1654948084,
+    "path" : "E:/坚果云work/Growth_law/Codes/Data_analysis/sum_data_Friedrich2021.R",
+    "project_path" : "sum_data_Friedrich2021.R",
+    "properties" : {
+        "cursorPosition" : "320,0",
+        "scrollLine" : "300"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

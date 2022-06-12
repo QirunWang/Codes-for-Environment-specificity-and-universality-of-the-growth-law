@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1654947864202.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3985939977",
+    "id" : "3EDDE88C",
+    "lastKnownWriteTime" : 1654948679,
+    "last_content_update" : 1654948679555,
+    "path" : "E:/坚果云work/Growth_law/Codes/Data_analysis/dds_gsea.R",
+    "project_path" : "dds_gsea.R",
+    "properties" : {
+        "cursorPosition" : "1,33",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
