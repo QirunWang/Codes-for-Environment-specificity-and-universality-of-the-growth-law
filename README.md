@@ -136,13 +136,13 @@ Qirun Wang & Jie Lin
      + ### fit_Dai.mlx
        Fit our model to the data from Dai, et al., 2016 (Figure 5b and c).
      + ### Dai2016.xls
-       $\phi_R$-$\mu$ data from Dai, et al., 2016.
+       $\phi_R$ - $\mu$ data from Dai, et al., 2016.
      + ### Dai_para.csv
        Detailed fitting results of Dai, et al., 2016 (Figure 5c).
      + ### fit_Metzl.mlx
        Fit our model to the data from Metzl, et al., 2017 (Figure 5a and c).
      + ### Metzl2017.xls
-       $\phi_R$-$\mu$ data from Metzl, et al., 2017.
+       $\phi_R$ - $\mu$ data from Metzl, et al., 2017.
      + ### Metzl_para.csv 
        Detailed fitting results of Metzl, et al., 2017 (Figure 5c).
 +  ### Data_analysis
