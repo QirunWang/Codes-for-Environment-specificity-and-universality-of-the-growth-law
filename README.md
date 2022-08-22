@@ -24,7 +24,7 @@ Qirun Wang & Jie Lin
 > ### Simulations
   All MATLAB codes as well as example datasets are available in the directory *Simulations*. *Simu_kave.mlx*, *Simu_alpha0.mlx*, *Simu_all_noise_chi.mlx*, and *Simu_all_noise_k.mlx* are codes for figure 1, 2, 3 and S1, while *Simu_theory_validation.mlx* is used to validate the model with experimental data in figure 4a, b, and S2.
 > ### Fit model to data
-  All MATLAB codes, $\phi_R$-$\mu$ data, and the fitting results are available in the directory *Data_fit*. *fit_Dai.mlx* and *fit_Metzl* are codes for figure 5.
+  All MATLAB codes, $\phi_R$ - $\mu$ data, and the fitting results are available in the directory *Data_fit*. *fit_Dai.mlx* and *fit_Metzl* are codes for figure 5.
 > ### Data analysis
   All R codes, experimental data, and results are available in the directory *Data_analysis*. *sum_data_Friedrich2021.R* is the code for calculating $I_{\chi,k}$, $I_{\phi,\alpha}$, effective $m_R$, and $\phi_R$ from experimental data. It also exports the correlation coefficients between predicted $\phi_i$ and other parameters for table S2. *DDS_gsea.R* is the code for differential expression analysis and GSEA analysis in figure 4c and S3. The *Data* directory contains processed data, including protein degradation rates, elongation speeds, growth rates $\mu$, $\phi_i$ from proteomics, $\chi_i$ from ribo-seq, and ribosomal protein list.
 #
