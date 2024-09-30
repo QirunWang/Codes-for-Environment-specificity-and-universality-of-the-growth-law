@@ -1,4 +1,5 @@
 # Codes for *"*Environment-specificity and universality of the microbial growth law*"*
+### Article: https://www.nature.com/articles/s42003-022-03815-w
 Qirun Wang & Jie Lin
 20220611
 #
